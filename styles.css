@@ -371,6 +371,8 @@ MODAL
 .modal__languages {
     display: flex;
     flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 .modal__language {
@@ -571,10 +573,11 @@ PROJECTS
     color: white;
     font-size: 20px;
     margin-right: 16px;
+    
 }
 
 .project__description--para {
-    margin: 16px 0;
+    margin: 16px;
 }
 
 /* 
