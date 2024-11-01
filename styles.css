@@ -692,6 +692,9 @@ SHAPES
     .title {
         font-size: 52px;
     }
+    .sub-title {
+        font-size: 86px;
+    }
     .header__para {
         font-size: 18px;
     }
